@@ -1,0 +1,77 @@
+﻿@model TokenEx.InterviewProject.Models.IndexViewModel
+@{
+    ViewBag.Title = "Payment Info";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewBag.AuthCode != null && !string.IsNullOrEmpty(ViewBag.AuthCode)) {
+    <div class="alert success">
+        Approved! Your Confirmation Number is: @ViewBag.AuthCode
+    </div>
+}
+
+@if (ViewBag.Error != null && !string.IsNullOrEmpty(ViewBag.Error)) {
+    <div class="alert error">
+        @ViewBag.Error
+    </div>
+}
+
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @id = "paymentForm" })) {
+    @Html.HiddenFor(model => model.IframeData.tokenExID, new { @id = "tokenExID" })
+    @Html.HiddenFor(model => model.IframeData.tokenScheme, new { @id = "tokenScheme" })
+    @Html.HiddenFor(model => model.IframeData.authenticationKey, new { @id = "authenKey" })
+    @Html.HiddenFor(model => model.IframeData.timeStamp, new { @id = "authenTimestamp" })
+    @Html.HiddenFor(model => model.IframeData.origin, new { @id = "authenOrigin" })
+
+    <div class="form-group">
+        <fieldset>
+            <h2>Name</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <label class="col control-label" for="firstName">First Name</label><br />
+                    @Html.TextBoxFor(model => model.FirstName, new { @id = "firstName", @placeholder = "John", @class = "form-control" })
+                </div>
+                <div class="col-md-4">
+                    <label for="lastName" class="col control-label">Last Name</label><br />
+                    @Html.TextBoxFor(model => model.LastName, new { @id = "lastName", @placeholder = "Doe", @class = "form-control" })
+                </div>
+            </div>
+        </fieldset>
+        <fieldset>
+            <h2>Payment Details</h2>
+            <div class="row">
+                <div class="col-md-7">
+                    <label for="creditCard">Credit Card Number</label><br />
+                    @* Implement the TokenEx Iframe here *@
+                    @if (ViewBag.SessionUrl.Length > 0) {
+                        <iframe id="tokenExIframe" width="100%" height="45px" scrolling="no" frameborder="0" src="@ViewBag.SessionUrl"></iframe>
+                    }
+                    else {
+                        <div id="tokenExDiv"></div>
+                    }
+                    @*@Html.TextBoxFor(model => model.CreditCardNumber, new { @id = "creditCard", autocomplete = "off", @maxlength = "19" })*@
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-7">
+                    <label for="cvv">CVV</label><br />
+                    @Html.TextBoxFor(model => model.CVV, new { @id = "cvv", @class = "form-control", autocomplete = "off", @maxlength = "4" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Expiration Date</label><br />
+                    @Html.TextBoxFor(model => model.ExpMonth, new { @id = "expMonth", autocomplete = "off", @maxlength = "2", @placeholder = "MM", @size = "3", @class = "form-control" })
+                </div>
+                <div class="col-md-3">
+                    @Html.TextBoxFor(model => model.ExpYear, new { @id = "expYear", autocomplete = "off", @maxlength = "4", @placeholder = "YYYY", @size = "5", @class = "form-control" })
+                </div>
+            </div>
+        </fieldset>
+        <fieldset>
+            <button class="btn btn-success" type="submit" id="btnSubmit">Submit Payment</button>
+        </fieldset>
+    </div>
+
+}

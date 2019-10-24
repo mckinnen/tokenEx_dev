@@ -1,0 +1,411 @@
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojResolveAssemblyReference.cache
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\github\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\Users\Justin\OneDrive - TokenEx, LLC 1\HR\TakeHome\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojResolveAssemblyReference.cache
+C:\Users\Justin\OneDrive - TokenEx, LLC 1\HR\TakeHome\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Users\Justin\OneDrive - TokenEx, LLC 1\HR\TakeHome\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Users\Justin\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojResolveAssemblyReference.cache
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Users\JustinStanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Deployment.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Webpages.Razor.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojResolveAssemblyReference.cache
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\TFS\utilities\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Scripts\script.js
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojAssemblyReference.cache
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CoreCompileInputs.cache
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Scripts\script.js
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe.config
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.rsp
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe.config
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.rsp
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.AppContext.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Console.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Http.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Sockets.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.ValueTuple.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe.config
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.rsp
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.dll
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.xml
+C:\Sandbox\TokenEx.InterviewProject (Andrew, base)\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CopyComplete
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Scripts\script.js
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe.config
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.rsp
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe.config
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.rsp
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.AppContext.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Console.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Http.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe.config
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.rsp
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojAssemblyReference.cache
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CopyComplete
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Users\jstanley\Desktop\TokenEx.InterviewProject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Scripts\script.js
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll.config
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\TokenEx.InterviewProject.pdb
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.exe.config
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csc.rsp
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.exe.config
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\csi.rsp
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.AppContext.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Console.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.exe.config
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\vbc.rsp
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\Newtonsoft.Json.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Helpers.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Mvc.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.Razor.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojAssemblyReference.cache
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CopyComplete
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll
+C:\Users\Nick.McKinney\Downloads\tokenex.interviewproject\TokenEx.InterviewProject\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.pdb
