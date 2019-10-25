@@ -12,6 +12,7 @@ namespace TokenEx.InterviewProject {
         string IframeClientCode { get; }
         string TokenExUrl { get; }
         string LittleCoUrl { get; }
+        string IframeCss { get; }
     }
     public class Configuration : TokenExConfig {
         public string TokenExId { get { return ConfigurationManager.AppSettings["TokenExId"]; } }
@@ -20,5 +21,6 @@ namespace TokenEx.InterviewProject {
         public string IframeClientCode { get { return ConfigurationManager.AppSettings["IframeClientCode"]; } }
         public string TokenExUrl { get { return ConfigurationManager.AppSettings["TokenExUrl"]; } }
         public string LittleCoUrl { get { return ConfigurationManager.AppSettings["LittleCoUrl"]; } }
+        public string IframeCss { get { return ConfigurationManager.AppSettings["iframeCss"]; } }
     }
 }

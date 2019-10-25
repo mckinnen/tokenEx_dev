@@ -79,7 +79,8 @@ namespace TokenEx.InterviewProject.Controllers
                 OriginUrl = originUrl,
                 CustomerRefnumber = "interviewTest",
                 TokenScheme = 1,
-                CurrentDateTime = tmpDate
+                CurrentDateTime = tmpDate,
+                CSS = config.IframeCss
             };
 
             TokenizeResponseImpl tmpResult = new TokenizeResponseImpl();
@@ -124,6 +125,7 @@ namespace TokenEx.InterviewProject.Controllers
         public string CustomerRefnumber { get; set; }
         public int TokenScheme { get; set; }
         public string CurrentDateTime { get; set; }
+        public string CSS { get; set; }
     }
 
     public class TokenizeResponseImpl : TokenizeResponse {
