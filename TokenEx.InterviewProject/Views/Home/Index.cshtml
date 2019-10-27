@@ -4,13 +4,15 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@if (ViewBag.AuthCode != null && !string.IsNullOrEmpty(ViewBag.AuthCode)) {
+@if (ViewBag.AuthCode != null && !string.IsNullOrEmpty(ViewBag.AuthCode))
+{
     <div class="alert success">
         Approved! Your Confirmation Number is: @ViewBag.AuthCode
     </div>
 }
 
-@if (ViewBag.Error != null && !string.IsNullOrEmpty(ViewBag.Error)) {
+@if (ViewBag.Error != null && !string.IsNullOrEmpty(ViewBag.Error))
+{
     <div class="alert error">
         @ViewBag.Error
     </div>
@@ -22,10 +24,6 @@
         height: 100% !important;
         padding-top: 2px !important;
         padding-bottom: 3.4px !important;
-    }
-
-    body {
-        background: #f5f5f5;
     }
 
     .rounded-lg {
@@ -41,80 +39,65 @@
         }
 </style>
 
-@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @id = "paymentForm" })) {
+@using (Html.BeginForm(null, null, FormMethod.Post, new { @id = "paymentForm" })) {
     @Html.HiddenFor(model => model.IframeData.tokenExID, new { @id = "tokenExID" })
-    @Html.HiddenFor(model => model.IframeData.tokenScheme, new { @id = "tokenScheme" })
     @Html.HiddenFor(model => model.IframeData.authenticationKey, new { @id = "authenKey" })
     @Html.HiddenFor(model => model.IframeData.timeStamp, new { @id = "authenTimestamp" })
     @Html.HiddenFor(model => model.IframeData.origin, new { @id = "authenOrigin" })
+    @Html.HiddenFor(model => model.IframePost, new { @id = "IframePost" })
 
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-7 mx-auto">
                 <div class="bg-white rounded-lg shadow-sm p-5">
-                    <div id="nav-tab-card" class="tab-pane fade show active">
-                        @*<p class="alert alert-success">Some text success or error</p>*@
-                        <form role="form" style="border:none !important;">
-                            <div class="form-group">
-                                @*<label for="username">Full name (on the card)</label>*@
-                                @*<input type="text" name="username" placeholder="Jason Doe" required class="form-control">*@
-                                <label for="firstName">First Name</label>
-                                @Html.TextBoxFor(model => model.FirstName, new { @id = "firstName", @placeholder = "John", @class = "form-control" })
-                                <label for="lastName" class="control-label">Last Name</label><br />
-                                @Html.TextBoxFor(model => model.LastName, new { @id = "lastName", @placeholder = "Doe", @class = "form-control" })
+                    <div style="border:none !important;">
+                        <div class="form-group">
+                            <label for="firstName">First Name</label>
+                            @Html.TextBoxFor(model => model.FirstName, new { @id = "firstName", @placeholder = "John", @class = "form-control" })
+                            <label for="lastName" class="control-label">Last Name</label><br />
+                            @Html.TextBoxFor(model => model.LastName, new { @id = "lastName", @placeholder = "Doe", @class = "form-control" })
+                        </div>
+                        <div class="form-group">
+                            <label for="cardNumber">
+                                Credit Card Information
+                                <span class="text-muted"
+                                        style="background-color:rgba(0,0,0,0.1); padding:3px; border:1px solid #eee; border-radius:.25rem;">
+                                    <i class="fa fa-cc-visa mx-1"></i>
+                                    <i class="fa fa-cc-amex mx-1"></i>
+                                    <i class="fa fa-cc-mastercard mx-1"></i>
+                                </span>
+                            </label>
+                            <div class="input-group">
+                                @*<input type="text" name="cardNumber" placeholder="Your card number" class="form-control" required>*@
+                                @* Implement the TokenEx Iframe here *@
+                                <iframe id="tokenExIframe" width="100%" height="45px" scrolling="no" frameborder="0" src="@ViewBag.SessionUrl"></iframe>
+                                @*<div id="tokenExDiv" class="form-control"></div>*@
+                                @*@Html.TextBoxFor(model => model.CreditCardNumber, new { @id = "creditCard", autocomplete = "off", @maxlength = "19" })*@
                             </div>
-                            <div class="form-group">
-                                <label for="cardNumber">
-                                    Credit Card Information
-                                    <span class="text-muted"
-                                          style="background-color:rgba(0,0,0,0.1); padding:3px; border:1px solid #eee; border-radius:.25rem;">
-                                        <i class="fa fa-cc-visa mx-1"></i>
-                                        <i class="fa fa-cc-amex mx-1"></i>
-                                        <i class="fa fa-cc-mastercard mx-1"></i>
-                                    </span>
-                                </label>
-                                <div class="input-group">
-                                    @*<input type="text" name="cardNumber" placeholder="Your card number" class="form-control" required>*@
-                                    @* Implement the TokenEx Iframe here *@
-                                    @if (ViewBag.SessionUrl.Length > 0) {
-                                        <iframe id="tokenExIframe" width="100%" height="45px" scrolling="no" frameborder="0" src="@ViewBag.SessionUrl"></iframe>
-                                    }
-                                    else {
-                                        <div id="tokenExDiv" class="form-control"></div>
-                                    }
-                                    @*@Html.TextBoxFor(model => model.CreditCardNumber, new { @id = "creditCard", autocomplete = "off", @maxlength = "19" })*@
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-8">
-                                    <div class="form-group">
-                                        <label><span class="hidden-xs">Expiration</span></label>
-                                        <div class="input-group">
-                                            @*<input type="number" placeholder="MM" name="" class="form-control" required>*@
-                                            @Html.TextBoxFor(model => model.ExpMonth, new { @id = "expMonth", autocomplete = "off", @maxlength = "2", @placeholder = "MM", @size = "3", @class = "form-control" })
-                                            @*<input type="number" placeholder="YY" name="" class="form-control" required>*@
-                                            @Html.TextBoxFor(model => model.ExpYear, new { @id = "expYear", autocomplete = "off", @maxlength = "4", @placeholder = "YYYY", @size = "5", @class = "form-control" })
-                                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <div class="form-group">
+                                    <label><span class="hidden-xs">Expiration</span></label>
+                                    <div class="input-group">
+                                        @Html.TextBoxFor(model => model.ExpMonth, new { @id = "expMonth", autocomplete = "off", @maxlength = "2", @placeholder = "MM", @size = "3", @class = "form-control" })
+                                        @Html.TextBoxFor(model => model.ExpYear, new { @id = "expYear", autocomplete = "off", @maxlength = "4", @placeholder = "YYYY", @size = "5", @class = "form-control" })
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
-                                    <div class="form-group mb-4">
-                                        <label data-toggle="tooltip" title="Three-digits code on the back of your card">
-                                            CVV
-                                            <i class="fa fa-question-circle"></i>
-                                        </label>
-                                        @*<input type="text" required class="form-control">*@
-                                        @Html.TextBoxFor(model => model.CVV, new { @id = "cvv", @class = "form-control", autocomplete = "off", @maxlength = "4" })
-                                    </div>
-                                </div>
-
-
-
                             </div>
-                            <button type="button" id="btnSubmit" class="subscribe btn btn-primary btn-block rounded-pill shadow-sm"> Confirm  </button>
-                        </form>
+                            <div class="col-sm-4">
+                                <div class="form-group mb-4">
+                                    <label data-toggle="tooltip" title="Three-digits code on the back of your card">
+                                        CVV
+                                        <i class="fa fa-question-circle"></i>
+                                    </label>
+                                    @*<input type="text" required class="form-control">*@
+                                    @Html.TextBoxFor(model => model.CVV, new { @id = "cvv", @class = "form-control", autocomplete = "off", @maxlength = "4" })
+                                </div>
+                            </div>
+                        </div>
+                        <button id="btnSubmit" class="subscribe btn btn-primary btn-block rounded-pill shadow-sm"> Confirm  </button>
                     </div>
-
                 </div>
             </div>
         </div>

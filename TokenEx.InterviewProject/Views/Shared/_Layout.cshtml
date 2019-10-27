@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>@ViewBag.Title - Nick McKinney TokenEx Interview Project</title>
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
@@ -13,37 +13,53 @@
         .fadeIn {
             display: none;
         }
+        .beachBackground {
+            background-image: linear-gradient(to top, rgba(135, 206, 235, 0.12), rgba(135,206,235, 0.73)), url('../../Content/beach.jpg');
+            width: 100%;
+            height:100%;
+            background-size: cover;
+            position:fixed;
+        }
+        .transparent {
+            zoom: 1;
+            filter: alpha(opacity=50);
+            opacity: 0.5;
+        }
     </style>
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top" style="background:linear-gradient(45deg, #a0c0e0, #f0f0f0)">
-        <div class="container">
-            <div class="navbar-header">
-                <div class="row">
-                    <div class="col-md-4 pull-left">
-                        <img src="~/Content/surfing_pikachu.png" 
-                             style="width:90%;" />
+    <div class="beachBackground">
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <div class="row">
+                        <div class="col-md-7 pull-left">
+                            <img src="~/Content/surfing_pikachu.png" 
+                                 style="width:25%;"/>
+                        </div>
+                        <div class="col"
+                             style="text-align:center;margin:auto;">
+                            <span style="font-size:20px;color:#fff;">Take Your Dream Pokemon Vacation!</span>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav"></ul>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav"></ul>
+                </div>
             </div>
         </div>
-    </div>
 
-    <div class="container body-content">
-        <div class="fadeIn">Hire me...</div>
-        <div class="fadeIn">Nick is great for this position!</div>
-        <div class="fadeIn">Hire him...</div>
-        <div class="fadeIn">Look at that pikachu!</div>
-        <div class="fadeIn">Hire me...</div>
-        <div class="fadeIn">Please?</div>
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - Nick McKinney Interview Project</p>
-        </footer>
+        <div class="container body-content">
+            <div class="fadeIn">Hire me...</div>
+            <div class="fadeIn">Look at that pikachu!</div>
+            <div class="fadeIn">Please?</div>
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Nick McKinney Interview Project</p>
+            </footer>
+        </div>
     </div>
 
     <script src="~/Scripts/jquery.min.js"></script>

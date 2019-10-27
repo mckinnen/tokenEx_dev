@@ -25,6 +25,7 @@ namespace TokenEx.InterviewProject.Models
         public int ExpYear { get; set; }
 
         public IframeConfigModel IframeData { get; set; }
+        public string IframePost { get; set; }
         private string tokenExID { get { return IframeData.tokenExID; } }
         private int tokenScheme { get { return IframeData.tokenScheme; } }
         private string authenticationKey { get { return IframeData.authenticationKey; } }

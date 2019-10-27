@@ -29,20 +29,6 @@ namespace TokenEx.InterviewProject.Controllers
             //if the user supplied valid data, perform a credit card authorization
             if (ModelState.IsValid) {
                 try {
-                    /*
-                     
-                     string localHMAC = GenerateHMAC(model.IframeData, Config.HTPHMACKey);
-                        if (localHMAC.Equals(model.HMAC))
-                        {
-                            ViewBag.token = model.Token;
-                            return View(new IframeViewModel());
-                        }
-                        else
-                        {
-                            //handel invalid HMAC
-                            return View(new IframeViewModel());
-                        }
-                    */
                     //implement call to payment services API and return auth code to user
                     string authCode = "ABC123";
 
