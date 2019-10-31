@@ -75,28 +75,20 @@ namespace TokenEx.InterviewProject.Controllers
                 tmpResult = response.Content.ReadAsAsync<TokenizeResponseImpl>().Result;
             }
 
-            if (tmpResult.Success) {
-                tmpRequest.OriginUrl = tmpResult.HTPURL;
-                ViewBag.SessionUrl = tmpResult.HTPURL;
-            }
-            else {
-                tmpRequest.OriginUrl = tmpRequest.OriginUrl;
-                ViewBag.SessionUrl = "";
-            }
+            ViewBag.SessionUrl = (tmpResult.Success) ? tmpResult.HTPURL : "";
 
             var concatTokenInfo = tmpRequest.TokenExId + "|" +
                 tmpRequest.OriginUrl + "|" +
-                tmpRequest.CurrentDateTime + "|" +
-                tmpRequest.TokenScheme;
+                tmpRequest.CurrentDateTime + "|sixANTOKENfour";
 
             var iframeHMAC = GenerateHMAC(concatTokenInfo, config.IframeClientCode);
 
             IframeConfigModel frameConfig = new IframeConfigModel {
                 tokenExID = tmpRequest.TokenExId,
-                tokenScheme = tmpRequest.TokenScheme,
-                authenticationKey = iframeHMAC,
-                timeStamp = tmpRequest.CurrentDateTime.ToString(),
-                origin = tmpRequest.OriginUrl
+                origin = tmpRequest.OriginUrl,
+                timeStamp = tmpRequest.CurrentDateTime,
+                tokenScheme = "sixANTOKENfour",
+                authenticationKey = iframeHMAC
             };
 
             return new IndexViewModel { IframeData = frameConfig };

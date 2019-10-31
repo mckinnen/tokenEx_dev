@@ -26,6 +26,10 @@
 elements = {};
 ready(function () {
 
+    var frameConfig = {
+
+    };
+
     elements = {
         iframe: document.getElementById('tokenExIframe'),
         iframeData: document.getElementById("IframePost"),
