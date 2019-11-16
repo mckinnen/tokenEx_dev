@@ -566,7 +566,6 @@ C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\bin\Sys
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\bin\System.Web.WebPages.xml
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\bin\System.Web.WebPages.Deployment.xml
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\bin\System.Web.WebPages.Razor.xml
-C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csprojAssemblyReference.cache
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CoreCompileInputs.cache
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.csproj.CopyComplete
 C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.InterviewProject\obj\Debug\TokenEx.InterviewProject.dll

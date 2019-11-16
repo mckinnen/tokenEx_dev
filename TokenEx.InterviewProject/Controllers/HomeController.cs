@@ -87,7 +87,7 @@ namespace TokenEx.InterviewProject.Controllers
             var concatTokenInfo = tmpRequest.TokenExId + "|" +
                 tmpRequest.OriginUrl + "|" +
                 tmpRequest.CurrentDateTime + "|" +
-                tmpRequest.TokenScheme;
+                tmpRequest.TokenScheme.ToString();
 
             var iframeHMAC = GenerateHMAC(concatTokenInfo, config.IframeClientCode);
 
