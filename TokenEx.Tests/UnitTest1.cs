@@ -42,7 +42,7 @@ namespace TokenEx.Tests {
         public void SetupTest() {
             appURL = "http://www.bing.com/";
 
-            string browser = "Chrome";
+            string browser = "Firefox";
             switch (browser) {
                 case "Chrome":
                     driver = new ChromeDriver();
