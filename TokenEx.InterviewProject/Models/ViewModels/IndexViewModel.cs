@@ -27,7 +27,7 @@ namespace TokenEx.InterviewProject.Models
         public IframeConfigModel IframeData { get; set; }
         public string IframePost { get; set; }
         private string tokenExID { get { return IframeData.tokenExID; } }
-        private int tokenScheme { get { return IframeData.tokenScheme; } }
+        private int tokenScheme { get { return Int32.Parse(IframeData.tokenScheme); } }
         private string authenticationKey { get { return IframeData.authenticationKey; } }
         private string timeStamp { get { return IframeData.timeStamp; } }
         private string origin { get { return IframeData.origin; } }
