@@ -1,0 +1,15 @@
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\TokenEx.Tests.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\TokenEx.Tests.pdb
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\WebDriver.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\bin\Debug\WebDriver.xml
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\obj\Debug\TokenEx.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\obj\Debug\TokenEx.Tests.csproj.CopyComplete
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\obj\Debug\TokenEx.Tests.dll
+C:\Users\mckin\Desktop\code\tokenEx\tokenEx_dev\TokenEx.Tests\obj\Debug\TokenEx.Tests.pdb
