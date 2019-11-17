@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -42,22 +43,23 @@ namespace TokenEx.Tests {
         public void SetupTest() {
             appURL = "http://www.bing.com/";
 
-            string browser = "Firefox";
-            switch (browser) {
-                case "Chrome":
-                    driver = new ChromeDriver();
-                    break;
-                case "Firefox":
-                    driver = new FirefoxDriver();
-                    break;
-                case "IE":
-                    driver = new InternetExplorerDriver();
-                    break;
-                default:
-                    driver = new ChromeDriver();
-                    break;
+            List<string> browsers = new List<string> { "Chrome","Firefox","IE" };
+            foreach (var browser in browsers) {
+                switch (browser) {
+                    case "Chrome":
+                        driver = new ChromeDriver();
+                        break;
+                    case "Firefox":
+                        driver = new FirefoxDriver();
+                        break;
+                    case "IE":
+                        driver = new InternetExplorerDriver();
+                        break;
+                    default:
+                        driver = new ChromeDriver();
+                        break;
+                }
             }
-
         }
 
         [TestCleanup()]
