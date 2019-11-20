@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
@@ -21,7 +20,7 @@ namespace TokenEx.Tests {
             driver.Navigate().GoToUrl(appURL + "/");
             driver.FindElement(By.Id("sb_form_q")).SendKeys("Azure Pipelines");
             driver.FindElement(By.Id("sb_form_go")).Click();
-            driver.FindElement(By.XPath("//ol[@id='b_results']/li/h2/a/strong[3]")).Click();
+            driver.FindElement(By.XPath("//ol[@id='b_results']/li/h2/a")).Click();
             Assert.IsTrue(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
         }
 
@@ -44,18 +43,27 @@ namespace TokenEx.Tests {
 
             string browser = "Firefox";
             switch (browser) {
-                case "Chrome":
-                    driver = new ChromeDriver();
-                    break;
-                case "Firefox":
-                    driver = new FirefoxDriver();
-                    break;
-                case "IE":
-                    driver = new InternetExplorerDriver();
-                    break;
                 default:
-                    driver = new ChromeDriver();
-                    break;
+                case "Chrome":
+                var ChromeOptions = new ChromeOptions();
+
+                ChromeOptions.AddArgument(@"--user-data-dir=C:\Users\uiTestProfile");
+                driver = new ChromeDriver(ChromeOptions);
+                break;
+
+                case "Firefox":
+                var FfOptions = new FirefoxOptions();
+                FfOptions.AddArgument(@"--user-data-dir=C:\Users\uiTestProfile");
+
+                FirefoxDriverService service = FirefoxDriverService.CreateDefaultService();
+                service.FirefoxBinaryPath = "C:\\Program Files\\Mozilla Firefox\\firefox.exe";
+
+                driver = new FirefoxDriver(service);
+                break;
+
+                case "IE":
+                driver = new InternetExplorerDriver();
+                break;
             }
 
         }
